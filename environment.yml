@@ -9,7 +9,11 @@ dependencies:
   - fastqc=0.11.9
   - sra-tools=2.11.0
   - snakemake=7.18.2
+<<<<<<< HEAD
   - multiqc=1.6
+=======
+  - multiqc=1.8
+>>>>>>> b53283098316d53987d6cc60689e25e48d934c76
   - bowtie2=2.2.4
   - tbb=2020.2
   - samtools=1.15.1
